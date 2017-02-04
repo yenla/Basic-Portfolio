@@ -186,6 +186,10 @@ article .about-copy {
 	padding: 10px;
 }
 
+article #main-image {
+	padding-left: 25px;
+}
+
 /* Main Content End (Index.html)
 ================================================== */
 
@@ -368,6 +372,7 @@ form input {
 
 input[type=text] {
 	width: 90%;
+	height: 20px;
 	padding: 10px;
 	margin-top: 10px;
 
@@ -403,6 +408,7 @@ input[type=text] {
     margin-top: 68%;
 
 }
+
 
 footer header {
 	float: left;
