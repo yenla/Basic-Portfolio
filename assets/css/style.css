@@ -355,6 +355,7 @@ img {
 	line-height: 23px;
 	color: #777777;
 	padding: 20px;
+	margin-left: 10px;
 
 }
 
@@ -398,7 +399,7 @@ input[type=text] {
     padding-top: 30px;
     text-align: center;
     color:#d1d3d3;
-    font-size:11px;
+    font-size:12px;
     position: absolute;
     margin-top: 68%;
 
